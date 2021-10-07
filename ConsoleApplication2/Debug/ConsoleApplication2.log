@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\user\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(21,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(25,19): warning C4244: =: преобразование "const float" в "int", возможна потеря данных
+C:\Users\user\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(30,18): warning C4244: =: преобразование "const float" в "int", возможна потеря данных
+  ConsoleApplication2.vcxproj -> C:\Users\user\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
